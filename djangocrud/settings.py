@@ -86,7 +86,7 @@ DATABASES = {
         #'NAME': BASE_DIR / 'db.sqlite3',
         'default': dj_database_url.config(
         # Feel free to alter this value to suit your needs.
-        default='postgresql://postgres:postgres@localhost:5432/djangocrud',
+        default='postgresql://postgres:postgres@dpg-cl958olb7ptc73de5eog-a:5432/djangocrud_xwq9',
         conn_max_age=600
         )
 }
